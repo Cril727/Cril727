@@ -1,13 +1,13 @@
-<!-- Banner de Bienvenida -->
+<!-- Banner de Bienvenida SIMPLE -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=500&color=09F700&center=true&vCenter=true&width=435&lines=Hola%2C+soy+Cristian+Garc%C3%ADa+%F0%9F%91%8B;Desarrollador+Full+Stack+con+pasión+por+el+Backend;Tambi%C3%A9n+amo+crear+interfaces+incre%C3%ADbles;Siempre+aprendiendo+y+resolviendo+problemas" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F700&center=true&vCenter=true&width=435&lines=Cristian+Garcia;Desarrollador+Full+Stack" alt="typing intro">
 </p>
 
 ---
 
 ## 👨‍💻 Sobre mí
 
-🎓 Tecnólogo en ADSO (SENA)  
+🎓 Tecnólogo en ADSI (SENA)  
 🧠 Desarrollador Full Stack con enfoque en **backend**, sin dejar atrás el lado visual del desarrollo  
 🚀 Desarrollo de sistemas reales en producción (SENA)  
 🌍 Ubicación: Sogamoso, Boyacá  
