@@ -1,14 +1,15 @@
 <!-- Banner de Bienvenida -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=500&color=09F700&center=true&vCenter=true&width=435&lines=Hola%2C+soy+Cristian+Garc%C3%ADa+%F0%9F%91%8B;Full+Stack+Developer+en+formaci%C3%B3n;Amante+del+frontend+y+la+UX%2FUI;Siempre+aprendiendo+y+creando+cosas+geniales" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=500&color=09F700&center=true&vCenter=true&width=435&lines=Hola%2C+soy+Cristian+Garc%C3%ADa+%F0%9F%91%8B;Desarrollador+Full+Stack+con+pasión+por+el+Backend;Tambi%C3%A9n+amo+crear+interfaces+incre%C3%ADbles;Siempre+aprendiendo+y+resolviendo+problemas" />
 </p>
 
 ---
 
 ## 👨‍💻 Sobre mí
 
-🎓 Tecnólogo en ADSI (SENA)  
-🚀 Desarrollador de una app institucional desplegada en 3 sedes del SENA  
+🎓 Tecnólogo en ADSO (SENA)  
+🧠 Desarrollador Full Stack con enfoque en **backend**, sin dejar atrás el lado visual del desarrollo  
+🚀 Desarrollo de sistemas reales en producción (SENA)  
 🌍 Ubicación: Sogamoso, Boyacá  
 📫 Contacto: [criatiangarcia637@gmail.com](mailto:criatiangarcia637@gmail.com)  
 📝 Portafolio: [cpro7.wordpress.com](https://cpro7.wordpress.com)
@@ -17,7 +18,14 @@
 
 ## 🛠️ Tecnologías y Herramientas
 
-### 👨‍💻 Frontend
+### 🧪 Backend (mi zona favorita)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Deno](https://img.shields.io/badge/Deno-000000?style=flat-square&logo=deno&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+### 🎨 Frontend (también me encanta)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -25,13 +33,6 @@
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-
-### ⚙️ Backend
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Deno](https://img.shields.io/badge/Deno-000000?style=flat-square&logo=deno&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 ### 🗃️ Bases de datos
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
@@ -85,7 +86,6 @@
 
 ---
 
-<!-- Gracias por visitar mi perfil -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Cril727&label=Visitas&color=0e75b6&style=flat" alt="Cril727" />
 </p>
