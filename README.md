@@ -53,11 +53,6 @@
   <img src="https://streak-stats.demolab.com?user=Cril727&theme=tokyonight&hide_border=true" alt="streak"/>
 </p>
 
-<!-- Snake graph -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Cril727/Cril727/output/github-contribution-grid-snake.svg" alt="snake"/>
-</p>
-
 <img src="https://github.com/Cril727/Cril727/blob/main/assets/divider.svg" width="100%" height="4px"/>
 
 ## 🌱 En aprendizaje continuo
