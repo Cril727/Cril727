@@ -79,7 +79,7 @@
 ## 📫 Conectemos
 <p align="center">
   <a href="mailto:criatiangarcia637@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge"></a>
-  <a href="https://www.linkedin.com/in/"><img src="https://img.shields.io/badge/LinkedIn-Pendiente-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"></a>
+  <a href="https://www.linkedin.com/in/cristian-yohani-gracia-rincon-developer/"><img src="https://img.shields.io/badge/LinkedIn-Cristian--Yohani-blue?style=for-the-badge&logo=linkedin&logoColor=white"alt="LinkedIn"/></a>
   <a href="https://cpro7.wordpress.com"><img src="https://img.shields.io/badge/WordPress-Portafolio-21759B?logo=wordpress&logoColor=white&style=for-the-badge"></a>
 </p>
 
